@@ -10,8 +10,8 @@ curl https://raw.github.com/creationix/nvm/master/install.sh | sh
 
 # Load nvm and install latest production node
 source $HOME/.nvm/nvm.sh
-nvm install v0.10.14
-nvm use v0.10.14
+nvm install v0.10.15
+nvm use v0.10.15
 
 # Insatll forever to allow nodejs apps to run in the background
 # https://github.com/nodejitsu/forever
